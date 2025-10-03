@@ -52,3 +52,9 @@ Plan VS Actual Variance = SUM(Data[Plan]) - SUM(Data[Actual])
 Plan VS Actual Variance % = DIVIDE(SUM(Data[Plan]), SUM(Data[Actual])) - 1
 Plan VS Forecast Variance = SUM(Data[Plan]) - SUM(Data[Forecast])
 Plan VS Forecast Variance % = DIVIDE(SUM(Data[Plan]), SUM(Data[Forecast])) - 1
+
+
+
+
+<img width="1163" height="660" alt="image" src="https://github.com/user-attachments/assets/800c4656-0e7e-49c0-b2a0-b833dfa5b01e" />
+
