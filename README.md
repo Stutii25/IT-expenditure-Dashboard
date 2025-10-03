@@ -43,6 +43,7 @@ The dataset is sourced from **Excel (Dataset.xlsx)** and contains IT expenditure
 - **Table (By Country)** → Geographic view of Plan vs Actual variance.  
 
 ---
+<img width="1163" height="660" alt="image" src="https://github.com/user-attachments/assets/800c4656-0e7e-49c0-b2a0-b833dfa5b01e" />
 
 ## 📐 DAX Measures
 ```DAX
@@ -56,5 +57,4 @@ Plan VS Forecast Variance % = DIVIDE(SUM(Data[Plan]), SUM(Data[Forecast])) - 1
 
 
 
-<img width="1163" height="660" alt="image" src="https://github.com/user-attachments/assets/800c4656-0e7e-49c0-b2a0-b833dfa5b01e" />
 
